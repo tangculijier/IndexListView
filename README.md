@@ -1,5 +1,5 @@
 # Introduction
-![](https://github.com/tangculijier/IndexListView/master/lib/example.png)
+![](https://github.com/tangculijier/IndexListView/master/libs/example.png)
 # Usage
 1.Replace standard ListView with com.huang.views.indexListview.IndexListView in your layout.xml file.
 ~~~xml
